@@ -1,0 +1,13 @@
+streamlit==1.38.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+langchain-community==0.2.0
+langchain-huggingface
+pydantic==2.8.0
+pandas==2.2.0
+PyPDF2==3.0.1
+plotly==5.22.0
+ollama==0.3.3
+transformers
+reportlab==4.2.0
+openpyxl

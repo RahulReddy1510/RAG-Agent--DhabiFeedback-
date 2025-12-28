@@ -1,0 +1,60 @@
+id,complaint,category,location,language,date
+1,Heavy traffic on Sheikh Zayed Road during rush hour near Marina exit,traffic,Dubai,en,2025-12-01
+2,فاتورة كهرباء مرتفعة جداً هذا الشهر في منطقة الخالدية,utilities,Abu Dhabi,ar,2025-12-02
+3,Water leak in Al Barsha 2 villa compound street 14,utilities,Dubai,en,2025-12-03
+4,Need more metro feeder buses in Discovery Gardens,transport,Dubai,en,2025-12-04
+5,تأخير في تجديد رخصة القيادة عبر التطبيق الذكي,services,Dubai,ar,2025-12-05
+6,Street lights not working in Khalifa City A sector 12,infrastructure,Abu Dhabi,en,2025-12-06
+7,Garbage collection missed for 3 days in JVC,sanitation,Dubai,en,2025-12-07
+8,إزعاج من أعمال البناء في وقت متأخر من الليل في منطقة النهدة,noise,Dubai,ar,2025-12-08
+9,Potholes on Hessa Street damaging cars,roads,Dubai,en,2025-12-09
+10,عدم توفر مواقف سيارات كافية أمام مركز إسعاد المتعاملين في الكفاف,parking,Dubai,ar,2025-12-10
+11,Sample complaint 11 about generic city services,general,Dubai,en,2025-12-11
+12,Sample complaint 12 about generic city services,general,Dubai,en,2025-12-11
+13,Sample complaint 13 about generic city services,general,Dubai,en,2025-12-11
+14,Sample complaint 14 about generic city services,general,Dubai,en,2025-12-11
+15,Sample complaint 15 about generic city services,general,Dubai,en,2025-12-11
+16,Sample complaint 16 about generic city services,general,Dubai,en,2025-12-11
+17,Sample complaint 17 about generic city services,general,Dubai,en,2025-12-11
+18,Sample complaint 18 about generic city services,general,Dubai,en,2025-12-11
+19,Sample complaint 19 about generic city services,general,Dubai,en,2025-12-11
+20,Sample complaint 20 about generic city services,general,Dubai,en,2025-12-11
+21,Sample complaint 21 about generic city services,general,Dubai,en,2025-12-11
+22,Sample complaint 22 about generic city services,general,Dubai,en,2025-12-11
+23,Sample complaint 23 about generic city services,general,Dubai,en,2025-12-11
+24,Sample complaint 24 about generic city services,general,Dubai,en,2025-12-11
+25,Sample complaint 25 about generic city services,general,Dubai,en,2025-12-11
+26,Sample complaint 26 about generic city services,general,Dubai,en,2025-12-11
+27,Sample complaint 27 about generic city services,general,Dubai,en,2025-12-11
+28,Sample complaint 28 about generic city services,general,Dubai,en,2025-12-11
+29,Sample complaint 29 about generic city services,general,Dubai,en,2025-12-11
+30,Sample complaint 30 about generic city services,general,Dubai,en,2025-12-11
+31,Sample complaint 31 about generic city services,general,Dubai,en,2025-12-11
+32,Sample complaint 32 about generic city services,general,Dubai,en,2025-12-11
+33,Sample complaint 33 about generic city services,general,Dubai,en,2025-12-11
+34,Sample complaint 34 about generic city services,general,Dubai,en,2025-12-11
+35,Sample complaint 35 about generic city services,general,Dubai,en,2025-12-11
+36,Sample complaint 36 about generic city services,general,Dubai,en,2025-12-11
+37,Sample complaint 37 about generic city services,general,Dubai,en,2025-12-11
+38,Sample complaint 38 about generic city services,general,Dubai,en,2025-12-11
+39,Sample complaint 39 about generic city services,general,Dubai,en,2025-12-11
+40,Sample complaint 40 about generic city services,general,Dubai,en,2025-12-11
+41,Sample complaint 41 about generic city services,general,Dubai,en,2025-12-11
+42,Sample complaint 42 about generic city services,general,Dubai,en,2025-12-11
+43,Sample complaint 43 about generic city services,general,Dubai,en,2025-12-11
+44,Sample complaint 44 about generic city services,general,Dubai,en,2025-12-11
+45,Sample complaint 45 about generic city services,general,Dubai,en,2025-12-11
+46,Sample complaint 46 about generic city services,general,Dubai,en,2025-12-11
+47,Sample complaint 47 about generic city services,general,Dubai,en,2025-12-11
+48,Sample complaint 48 about generic city services,general,Dubai,en,2025-12-11
+49,Sample complaint 49 about generic city services,general,Dubai,en,2025-12-11
+50,Sample complaint 50 about generic city services,general,Dubai,en,2025-12-11
+51,Sample complaint 51 about generic city services,general,Dubai,en,2025-12-11
+52,Sample complaint 52 about generic city services,general,Dubai,en,2025-12-11
+53,Sample complaint 53 about generic city services,general,Dubai,en,2025-12-11
+54,Sample complaint 54 about generic city services,general,Dubai,en,2025-12-11
+55,Sample complaint 55 about generic city services,general,Dubai,en,2025-12-11
+56,Sample complaint 56 about generic city services,general,Dubai,en,2025-12-11
+57,Sample complaint 57 about generic city services,general,Dubai,en,2025-12-11
+58,Sample complaint 58 about generic city services,general,Dubai,en,2025-12-11
+59,Sample complaint 59 about generic city services,general,Dubai,en,2025-12-11
